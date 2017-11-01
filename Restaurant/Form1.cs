@@ -13,7 +13,7 @@ namespace Restaurant
 
     public partial class Form1 : Form
     {
-        string[] preparate = { "Pizza quattro formaggi", "Pizza calzone", "Pizza canibale", "Pizza Margherita", "Tarta cu fructe", "Dobos", "Diplomat", "Inghetata" };
+        string[] preparate = { "Pizza quattro for Hagi", "Pizza calzone", "Pizza canibale", "Pizza Margherita", "Tarta cu fructe", "Dobos", "Diplomat", "Inghetata" };
         string[] bauturi = { "Apa plata 0.5l Dorna", "Apa carbo Borsec 0.5l", "Pepsi 0.5l", "Limonada 0.5l", "Ceai verde", "Cafea expresso" };
         int[] pretp = { 19, 21, 20, 12, 5, 4, 5, 10 };
         int[] pretb = { 3, 3, 5, 9, 4, 6 };
